@@ -1,0 +1,9 @@
+.vscode
+save_ckpt
+pretrained_model
+model_weights
+show_model
+tmp
+run.sh
+05 train_llava
+__pycache__/
